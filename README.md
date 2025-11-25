@@ -4,10 +4,6 @@ Hands-on Data Engineer building production pipelines and infrastructure.
 
 ---
 
-## Technical Stack
-
-Python, Linux, Singer SDK, Meltano, dbt, PostgreSQL, SQL Server, Docker, Airflow.
-
 ## Publications
 
 * [How to Run a Meltano Pipeline with a REST API and PostgreSQL](https://infocusdata.com/blog/data-engineering/mastering-meltano/meltano-restapi-postgres-guide)
