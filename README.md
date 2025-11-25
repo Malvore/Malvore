@@ -6,7 +6,7 @@ Hands-on Data Engineer building production pipelines and infrastructure.
 
 ## Technical Stack
 
-Python, Singer SDK, Meltano, dbt, PostgreSQL, SQL Server, Docker, Airflow, Linux, Git
+Python, Linux, Singer SDK, Meltano, dbt, PostgreSQL, SQL Server, Docker, Airflow.
 
 ## Publications
 
