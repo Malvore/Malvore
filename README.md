@@ -1,6 +1,6 @@
 # Aaron O’Toole
 
-Hands-on Data Engineer building production pipelines and infrastructure.
+Platform developer at InFocus Data, building production data pipelines and infrastructure.
 
 ---
 
